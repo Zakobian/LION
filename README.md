@@ -5,7 +5,7 @@
 
 University of Cambridge Computational Image Analysis (CIA) groups AI tools for tomographic reconstruction, LION (Learned Iterative Optimization Networks)
 
-The toolbox contains data dowloading and pre-processing, torch `DataSet` classes for the existing data, and `Experiments` class with implementation of default realistic experiments, several data-driven methods and models, and features to enhacne reproduciblity. 
+The toolbox contains data downloading and pre-processing, torch `DataSet` classes for the existing data, and `Experiments` class with implementation of default realistic experiments, several data-driven methods and models, and features to enhacne reproduciblity. 
 
 
 **WARNING** Building in progress. This is a tool in development in very early stages. 
